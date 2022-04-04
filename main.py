@@ -21,4 +21,4 @@ if __name__ == '__main__':
     print(point_coordinates)
 
     back.show()
-# add colouring for different rows or spirals
+# add colouring for different rows or spirals based on % remainder
