@@ -1,7 +1,7 @@
 import math
 
 
-def polar_to_decart(ro, fi):
+def polar_to_descartes(ro, fi):
     x = ro * math.cos(fi)
     y = ro * math.sin(fi)
     coordinates = (x, y)
